@@ -5,7 +5,7 @@
 ###### Drywall installer and web developer on my free time
 ![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/programming.gif "Programming")
 
-I've been doing some cool stuff like a timesheet manager [Nova Genesis](https://novagenesis.co.nz)
+I've been doing some cool stuff like [Nova Genesis](https://novagenesis.co.nz) timesheet manager 
 <!--
 **FuryAndRage/FuryAndRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
