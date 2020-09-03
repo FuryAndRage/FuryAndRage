@@ -1,6 +1,11 @@
-### Hi there, I'm Moises 👋
+# Hi there, I'm Moises Andrade 👋
+##### I am working to turn a passion into a profession
+![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/programming.gif "Programming")
 
-###### I am a brazilian drywall installer in New Zealand
+###### But at the moment I am a drywall installer and web developer on my free time
+![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot")
+
+I've am doing some cool stuff like a timesheet manager [Nova Genesis](https://novagenesis.co.nz)
 <!--
 **FuryAndRage/FuryAndRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
