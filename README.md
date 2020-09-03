@@ -1,9 +1,9 @@
 # Hi there, I'm Moises Andrade 👋
-##### I am working to turn a passion into a profession
-![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/programming.gif "Programming")
+##### Working to turn a passion into a profession
 
-###### But at the moment I am a drywall installer and web developer on my free time
-![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot")
+
+###### Drywall installer and web developer on my free time
+![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/programming.gif "Programming")
 
 I've been doing some cool stuff like a timesheet manager [Nova Genesis](https://novagenesis.co.nz)
 <!--
