@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Moises 👋
 
+###### I am a brazilian drywall installer in New Zealand
 <!--
 **FuryAndRage/FuryAndRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
