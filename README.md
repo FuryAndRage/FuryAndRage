@@ -5,7 +5,7 @@
 ###### But at the moment I am a drywall installer and web developer on my free time
 ![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot")
 
-I've am doing some cool stuff like a timesheet manager [Nova Genesis](https://novagenesis.co.nz)
+I've been doing some cool stuff like a timesheet manager [Nova Genesis](https://novagenesis.co.nz)
 <!--
 **FuryAndRage/FuryAndRage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
