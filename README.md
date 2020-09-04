@@ -3,7 +3,7 @@
 
 
 ###### Drywall installer and web developer on my free time
-![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/1.gif "Robot") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/2.gif "Programming")
+![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/1.gif "Drywall instalation during the day") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/2.gif "Programming at night")
 
 I've been doing some cool stuff like [Nova Genesis](https://novagenesis.co.nz) timesheet manager 
 <!--
