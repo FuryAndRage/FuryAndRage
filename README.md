@@ -3,7 +3,7 @@
 
 
 ###### Drywall installer and web developer on my free time
-![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/drywallrobot.gif "Robot") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/programming.gif "Programming")
+![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/1.gif "Robot") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/2.gif "Programming")
 
 I've been doing some cool stuff like [Nova Genesis](https://novagenesis.co.nz) timesheet manager 
 <!--
@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+```python
+my_stack = [{'languages':{1:'Python',2:'JavaScript'}},
+            {'css_frameworks':{1:'Bootstrap', 2:'materializecss'}},
+            {'backend_frameworks':{1:'Django', 2:'Flask'}}]
+```
+
+
