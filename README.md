@@ -1,5 +1,7 @@
-# Hi there, I'm Moises Andrade 👋
+# I'm Moises Andrade 👋
 ##### Working to turn a passion into a profession
+
+
 
 
 ###### Drywall installer and web developer on my free time
@@ -28,4 +30,4 @@ my_stack = [{'languages':{1:'Python',2:'JavaScript'}},
             {'backend_frameworks':{1:'Django', 2:'Flask'}}]
 ```
 
-
+![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/we-are-non-commit.jpg "0 days without a non commit")
