@@ -29,5 +29,4 @@ my_stack = [{'languages':{1:'Python',2:'JavaScript'}},
             {'css_frameworks':{1:'Bootstrap', 2:'materializecss'}},
             {'backend_frameworks':{1:'Django', 2:'Flask'}}]
 ```
-
-![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/we-are-non-commit.jpg "0 days without a non commit")
+<!-- ![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/we-are-non-commit.jpg "0 days without a non commit") -->
